@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KutloanoDigital from South Africa.
 - 👀 I’m interested in reading and dancing.
-- 🌱 I’m currently learning software engineering.
+  
   
 
 <!---
